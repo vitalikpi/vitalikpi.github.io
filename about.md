@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Unreadable is Vitalii Pianykh blog. It's "unreadable"  because it's nearly impossible to spell my slavic name transliteration.
+Hi! I'm Vitalii Pianykh. This is my blog.
 Enjoy!
 
 ---
