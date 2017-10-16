@@ -2,7 +2,7 @@
 
 title: Assembly language
 
-summary: some asm starters
+summary: Step in, step in, step in... The source code is not available, you're in disassembly mode now. Junior or senior engineers, aspiring and experienced - know and dread. This is an Assembly language. Nuts and bolts of computing.
 
 ---
 
