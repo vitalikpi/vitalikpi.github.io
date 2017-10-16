@@ -1,14 +1,14 @@
 
 # The name of your website.
-name: Unreadable
+name: VitalikPi
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: unreadable - Vitalii Pianykh blog about everything tech, human, kids, etc.
+  meta: unreadable - Vitalii Pianykh blog about everything.
 
   # Description of your site. This will show up on the front page.
-  subtitle: unreadable - Vitalii Pianykh blog about everything tech, human, kids, etc.
+  subtitle: unreadable - Vitalii Pianykh blog about everything.
 
 author:
   name: Vitalii
@@ -20,7 +20,7 @@ author:
   # want it.
   info:
 
-url: http://unreadable.github.io
+url: http://vitalikpi.github.io
 baseurl:
 
 # language attribute in <html> element.
@@ -97,7 +97,7 @@ reddit:
 soundcloud:
 medium:
 linkedin: https://www.linkedin.com/pub/vitaliy-pianykh
-github: https://github.com/unreadable
+github: https://github.com/vitalikpi
 behance:
 codepen:
 dribbble:
