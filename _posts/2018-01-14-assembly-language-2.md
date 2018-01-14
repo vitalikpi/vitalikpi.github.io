@@ -1,6 +1,6 @@
 ---
 
-title: Assembly language. Part 2: Bruteforcing Project Euler #1: Multiples of 3 and 5
+title: Assembly language. Part 2 Bruteforcing Project Euler 1 Multiples of 3 and 5
 
 summary: Remember in the previous blog post I proposed to use your skills in Assembly. Here is my try...
 
